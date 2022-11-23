@@ -1,0 +1,143 @@
+#myVideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+}
+
+.hs{
+    color: white;
+    font-size: 80px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    opacity: 0.9;
+    margin-left: -90px;
+}
+
+/* .hs1:hover{
+    font-size: 83px;
+    cursor: pointer; 
+    width: 253px;
+    height: 55px;  
+} */
+
+.a1{
+    margin: 50px 0px 0px 580px;
+    padding: 20px;
+    width: 20%;
+    border-radius: 20px;
+    position: fixed;
+    opacity: 0.9;
+    width: 10%;
+}
+
+.buttons{
+    margin-top: 20px;
+}
+
+.start{
+    width: 350px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: solid white;
+    font-size: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.start:hover{
+    background-color: white;
+    color: black;
+    width: 353px;
+    height: 150x;
+    font-size: 27px;
+    cursor: pointer;
+}
+
+.start:active{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    
+}
+
+.diff{
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: solid white;
+    font-size: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.diff:hover{
+    background-color: white;
+    color: black;
+    width: 253px;
+    height: 55px;
+    font-size: 27px;
+    cursor: pointer;
+}
+
+.diff:active{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.rule{
+    width: 250px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: solid white;
+    font-size: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.rule:hover{
+    background-color: white;
+    color: black;
+    width: 253px;
+    height: 55px;
+    font-size: 27px;
+    cursor: pointer;
+}
+
+.rule:active{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.cs{
+    position: fixed;
+    border: solid white 2px;
+    color: white;
+    width: 12%;
+    margin: 500px 0px 0px 1300px;
+}
+
+.cs:hover{
+    cursor: pointer;
+    border: solid white 3px;
+    width: 210px;
+    height: 55px;
+    font-size: 18px;
+    height: 200px;
+}
+
+.cs:active{
+    color: black;
+    cursor: pointer;
+    border: solid white 3px;
+    width: 210px;
+    height: 55px;
+    font-size: 18px;
+    height: 200px;
+    background-color: white;
+}

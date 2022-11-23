@@ -1,0 +1,100 @@
+
+
+.inner
+{
+    width: 80px;
+    height: 80px;
+    float: left;
+    background-color: white;
+    transition: background-color 2s;
+}
+.outer
+{
+    width: 240px;
+    height: 240px;
+    background-color: rgb(39, 38, 38);
+    border-radius: 10px;
+}
+#onof
+{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+#myvideo
+{
+    position: fixed;
+    min-width: 100%; 
+    min-height: 100%;
+    right: 0;
+    bottom: 0;
+    
+}
+.out{
+    position: relative;
+    width: 30%;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+
+.start{
+    background-color: black;
+    border: solid white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    width: 250px;
+    height:50px;
+    font-size: 25px;
+    font-family: "Lucida Console","Courier New",monospace;
+    
+}
+
+.start:hover{
+    background-color: white;
+    color: black;width: 253px;
+    height: 55px;
+    font-size: 27px;
+    cursor: pointer;
+}
+
+.start:active{
+    background-color: black;
+    border: solid white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    width: 250px;
+    height:50px;
+    font-size: 25px;
+    font-family: "Lucida Console","Courier New",monospace;
+
+}
+
+.temp1{
+    background-color: black;
+    border: solid white;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    width: 250px;
+    height:50px;
+    font-size: 25px;
+    font-family: "Lucida Console","Courier New",monospace;
+}
+
+.temp1:hover{
+    background-color: white;
+    color: black;width: 253px;
+    height: 55px;
+    font-size: 27px;
+    cursor: pointer;
+}
+
+.temp1:active{
+    background-color: black;
+    color: white;width: 253px;
+    height: 55px;
+    font-size: 27px;
+    cursor: pointer;
+}

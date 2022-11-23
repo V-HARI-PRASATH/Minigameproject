@@ -1,0 +1,96 @@
+#myvideo{
+    position: fixed;
+}
+
+#co1{
+    position: fixed;
+}
+
+#btt{
+    width: 300px;
+    height: 280px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: solid white;
+    font-size: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-top: 10px;
+    /* float: right; */
+    text-align: center;
+    float: left;
+    margin-left: 160px;
+}
+
+#btt:hover{
+    /* background-color: white; */
+    /* color: black; */
+    width: 310px;
+    height: 290px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#btt:active{
+    background-color: black;
+    color: white;
+    width: 310px;
+    height: 290px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#co1{
+    width: 100%;
+    
+}
+
+.hu{
+    font-size: 50px;
+}
+
+#pr1{
+    width: 200px;
+    height: 200px;
+}
+
+#pr1:hover{
+    width: 210px;
+    height: 210px;
+}
+
+#bttt{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: solid white;
+    font-size: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-top: 10px;
+    /* float: right; */
+    text-align: center;
+    position: fixed;
+    margin-top: 650px;
+    margin-left: 400px;
+}
+
+#bttt:hover{
+    background-color: white;
+    color: black;
+    width: 210px;
+    height: 45px;
+    font-size: 30px;
+    cursor: pointer;
+
+}
+
+#bttt:active{
+    background-color: black;
+    color: white;
+    width: 210px;
+    height: 45px;
+    font-size: 30px;
+    cursor: pointer;
+}

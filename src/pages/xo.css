@@ -1,0 +1,61 @@
+#bg{
+    position: fixed;
+    right: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.oute{
+    width: 240px;
+    height: 240px;
+    background-color: black;
+    margin-top: 100px;
+}
+.inne{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+}
+
+
+#ou{
+    position: fixed;
+    color: white;
+    width: 100%;
+}
+
+.th{
+    font-size: 80px;
+}
+
+.bt1{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: solid white;
+    font-size: 25px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    margin-top: 140px;
+    float: right;
+}
+
+.bt1:hover{
+    background-color: white;
+    color: black;
+    width: 210px;
+    height: 45px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.bt1:active{
+    background-color: black;
+    color: white;
+    width: 210px;
+    height: 45px;
+    font-size: 30px;
+    cursor: pointer;
+}
